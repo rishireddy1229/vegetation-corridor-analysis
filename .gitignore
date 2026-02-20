@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+dataset/
+outputs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual Env
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Images generated
+segmented_frame.jpg
