@@ -143,7 +143,7 @@ docker run -p 8501:8501 vegetation-app
 ---
 
 ## 📸 Application Output
-
+![alt text](image-1.png)
 The system generates three visual outputs:
 
 1. Input Satellite Image
@@ -151,7 +151,7 @@ The system generates three visual outputs:
 3. Electrical Line Detection
 
 These are displayed side-by-side in the web interface.
-
+![alt text](image.png)
 ---
 
 ## 🧠 Engineering Design Decisions
